@@ -1,0 +1,24 @@
+{
+  "MyProjects": [
+    {
+      "id": "pixidev",
+      "title": "Pixidev",
+      "description": "Agencia de desarrollo web",
+      "languages": {
+        "backend": { "frame": "Golang", "lang": "Go" },
+        "frontend": { "frame": "NextJS", "lang": "javascript" }
+      }
+    }
+  ],
+  "OtherProjects": [
+    {
+        "id": "summacampohemoso",
+        "title": "Summa Campohermoso",
+        "description": "Agencia de seguros situada en Almeria",
+        "languages": {
+          "backend": { "frame": "NodeJS", "lang": "Typescript" },
+          "frontend": { "frame": "NextJS", "lang": "javascript" }
+        }
+      }
+  ]
+}
