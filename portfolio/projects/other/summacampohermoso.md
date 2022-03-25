@@ -1,12 +1,10 @@
-![](https://cdn.discordapp.com/attachments/821016295654686730/956294341826068540/unknown.png)
-
 <div>
     <h1>Summa Campohermoso</h1>
     <a target="_blank" rel="noreferrer nofollow noopener" href="https://summacampohermoso.com">Ir a la web</a>
 </div>
 
-Pixidev es una agencia de desarrollo web que estoy desarrollado, esta formada por la Landing Page, el panel de cliente y el panel de administración, ademas, de la gestion de todos los productos junto a los hosting web para todos nuestros clientes bajo la arquitectura de Cloudflare.
+Summa Campohermoso es una agencia de seguros que se encarga de buscar los mejores seguros para sus clientes, ademas, se encarga de gestionar y ayudar a sus clientes a la hora de resolver algun problema con los seguros que tienen con ellos.
 
-La tecnologia que utilizamos en el frontend es de Next JS ya que queriamos tener el mayor rendimiento a la hora de entregar la web desde el servidor al cliente. Ademas, en el apartado de Backend utilizamos Golang, un lenguaje de programación creado por google que proporciona estabilidad y rendimiento sin necesidad de tener una gran infraestructura, lo que nos permite bajar el precio de nuestra infraestructura. De base de datos utilizamos MySQL para toda la gestion de clientes, productos y compras.
+Summa Campohermoso tiene una pagina web landing page y dos paneles de control, Uno para los clientes y otro privado para los trabajadores. Ambos estan creados con NextJS en el lado del Frontend y el Backend esta creado con Express en NodeJS y Golang con Fiber.
 
-como ya he comentado anteriormente esta aun en desarrollo, por lo que lo mas probable es que acaben habiendo cambios
+Ademas, dispone de un bot de Whatsapp para poder comunicarse con sus clientes de manera comoda y rapida
