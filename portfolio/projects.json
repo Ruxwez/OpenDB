@@ -1,24 +1,16 @@
 {
   "MyProjects": [
     {
-      "id": "pixidev",
-      "title": "Pixidev",
-      "description": "Agencia de desarrollo web",
+      "id": "bookmark-separator",
+      "title": "Bookmark Separator",
+      "description": "Pagina web que sirve como separador para la barra de tareas de Google Chrome",
       "languages": {
-        "backend": { "frame": "Golang", "lang": "Go" },
-        "frontend": { "frame": "NextJS", "lang": "javascript" }
+        "backend": { "frame": "Scss", "lang": "scss" },
+        "frontend": { "frame": "HTML", "lang": "html" }
       }
     }
   ],
   "OtherProjects": [
-    {
-        "id": "summacampohermoso",
-        "title": "Summa Campohermoso",
-        "description": "Agencia de seguros situada en Almeria",
-        "languages": {
-          "backend": { "frame": "NodeJS", "lang": "Typescript" },
-          "frontend": { "frame": "NextJS", "lang": "javascript" }
-        }
-      }
+    
   ]
 }
