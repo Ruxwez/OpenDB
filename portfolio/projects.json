@@ -8,6 +8,15 @@
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
+    },
+    {
+      "id": "bookmark-custom-favicon",
+      "title": "Bookmark Custom Favicon",
+      "description": "Esta web sirve para poder personalizar el favicon de tus marcadores",
+      "languages": {
+        "backend": { "frame": "Scss", "lang": "scss" },
+        "frontend": { "frame": "React", "lang": "javascript" }
+      }
     }
   ],
   "OtherProjects": [
