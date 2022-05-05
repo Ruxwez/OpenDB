@@ -8,15 +8,6 @@
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
-    },
-    {
-      "id": "portflio",
-      "title": "Portflio",
-      "description": "Interfaz de gestión de billeteras en la blockchain",
-      "languages": {
-        "backend": { "frame": "golang", "lang": "go" },
-        "frontend": { "frame": "React", "lang": "javascript" }
-      }
     }
   ],
   "OtherProjects": [
