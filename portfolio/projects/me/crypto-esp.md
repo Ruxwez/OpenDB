@@ -7,4 +7,4 @@ He creado esta comunidad con el objetivo de recopilar información para que los 
 
 Esta comunidad esta en discord y un buscador, donde podran buscar cualquier tipo de información, de manera rapida y sencilla.
 
-Esta pagina web esta hecha en React JS y esta hosteada en Cloudflare Pages.
+Esta pagina web esta hecha en Next JS y Firebase
