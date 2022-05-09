@@ -15,7 +15,7 @@
       "description": "Comunidad dedicada al mundo crypto",
       "languages": {
         "backend": { "frame": "Scss", "lang": "scss" },
-        "frontend": { "frame": "HTML", "lang": "html" }
+        "frontend": { "frame": "NextJS", "lang": "js" }
       }
     }
   ],
