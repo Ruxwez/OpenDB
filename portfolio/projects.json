@@ -8,6 +8,15 @@
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
+    },
+    {
+      "id": "crypto-esp",
+      "title": "Crypto España",
+      "description": "Comunidad dedicada al mundo crypto",
+      "languages": {
+        "backend": { "frame": "Scss", "lang": "scss" },
+        "frontend": { "frame": "HTML", "lang": "html" }
+      }
     }
   ],
   "OtherProjects": [
