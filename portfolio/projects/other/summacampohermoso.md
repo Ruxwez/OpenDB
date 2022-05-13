@@ -1,3 +1,5 @@
+![](https://cdn.jsdelivr.net/gh/Ruxwez/OpenDB@main/img/summacampohermoso.png)
+
 <div>
     <h1>Summa Campohermoso</h1>
     <a target="_blank" rel="noreferrer nofollow noopener" href="https://summacampohermoso.com">Ir a la web</a>
