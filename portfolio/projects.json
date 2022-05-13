@@ -8,18 +8,17 @@
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
-    },
-    {
-      "id": "crypto-esp",
-      "title": "Crypto España",
-      "description": "Comunidad dedicada al mundo crypto",
-      "languages": {
-        "backend": { "frame": "Scss", "lang": "scss" },
-        "frontend": { "frame": "NextJS", "lang": "javascript" }
-      }
     }
   ],
   "OtherProjects": [
-    
+    {
+      "id": "summacampohermoso",
+      "title": "Summa Campohermoso",
+      "description": "Correduría de seguros Española",
+      "languages": {
+        "backend": { "frame": "Scss", "lang": "scss" },
+        "frontend": { "frame": "HTML", "lang": "html" }
+      }
+    }
   ]
 }
