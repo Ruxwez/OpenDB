@@ -3,7 +3,16 @@
     {
       "id": "bookmark-separator",
       "title": "Bookmark Separator",
-      "description": "Pagina web que sirve como separador para la barra de tareas de Google Chrome",
+      "description": "Pagina web que sirve como separador para la barra de tareas de Google Chrome.",
+      "languages": {
+        "backend": { "frame": "Scss", "lang": "scss" },
+        "frontend": { "frame": "HTML", "lang": "html" }
+      }
+    },
+    {
+      "id": "elucrypto",
+      "title": "Elucrypto",
+      "description": "Comunidad que incentiva el aprendizaje del mundo crypto.",
       "languages": {
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
@@ -14,7 +23,7 @@
     {
       "id": "summacampohermoso",
       "title": "Summa Campohermoso",
-      "description": "Correduría de seguros Española",
+      "description": "Curriduría de seguros Española.",
       "languages": {
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
