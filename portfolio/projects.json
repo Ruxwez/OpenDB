@@ -15,7 +15,7 @@
       "description": "Comunidad que incentiva el aprendizaje del mundo crypto.",
       "languages": {
         "backend": { "frame": "Scss", "lang": "scss" },
-        "frontend": { "frame": "HTML", "lang": "html" }
+        "frontend": { "frame": "php", "lang": "php" }
       }
     }
   ],
@@ -25,7 +25,7 @@
       "title": "Summa Campohermoso",
       "description": "Curriduría de seguros Española.",
       "languages": {
-        "backend": { "frame": "Scss", "lang": "scss" },
+        "backend": { "frame": "css", "lang": "css" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
     }
