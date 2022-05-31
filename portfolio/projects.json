@@ -10,12 +10,12 @@
       }
     },
     {
-      "id": "elucrypto",
-      "title": "Elucrypto",
-      "description": "Comunidad que incentiva el aprendizaje del mundo crypto.",
+      "id": "pixidev",
+      "title": "Pixidev",
+      "description": "Agencia de desarrollo web.",
       "languages": {
         "backend": { "frame": "Scss", "lang": "scss" },
-        "frontend": { "frame": "php", "lang": "php" }
+        "frontend": { "frame": "NextJS", "lang": "javascript" }
       }
     }
   ],
@@ -23,7 +23,7 @@
     {
       "id": "summacampohermoso",
       "title": "Summa Campohermoso",
-      "description": "Curriduría de seguros Española.",
+      "description": "Agencia de seguros Española.",
       "languages": {
         "backend": { "frame": "css", "lang": "css" },
         "frontend": { "frame": "HTML", "lang": "html" }
