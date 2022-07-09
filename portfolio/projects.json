@@ -8,15 +8,6 @@
         "backend": { "frame": "Scss", "lang": "scss" },
         "frontend": { "frame": "HTML", "lang": "html" }
       }
-    },
-    {
-      "id": "pixidev",
-      "title": "Pixidev",
-      "description": "Agencia de desarrollo web.",
-      "languages": {
-        "backend": { "frame": "Scss", "lang": "scss" },
-        "frontend": { "frame": "NextJS", "lang": "javascript" }
-      }
     }
   ],
   "OtherProjects": [
